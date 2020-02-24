@@ -40,5 +40,5 @@ def get_proxy():
     except ConnectionError:
         return None
 ```
-
-[https://github.com/Python3WebSpider/ProxyPool]
+## 项目参考
+[https://github.com/Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool)
